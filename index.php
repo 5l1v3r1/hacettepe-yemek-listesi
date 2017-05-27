@@ -66,14 +66,17 @@
 <div class="row" id="container">
 
 <?php
-$apiURL = 'http://www.sksdb.hacettepe.edu.tr/YemekListesi.xml';
-$yemekListesi = file_get_contents($apiURL);
-$xmlData = simplexml_load_string($yemekListesi);
 $bugun = new DateTime(date("d.m.Y"));
+$apiURL = 'http://www.sksdb.hacettepe.edu.tr/YemekListesi.xml';
+$sahurDosya = "sahur.".$bugun->format('Y').".xml";
+$yemekListesi = file_get_contents($apiURL);
+$sahurListesi = file_get_contents($sahurDosya);
+$xmlDataYemek = simplexml_load_string($yemekListesi);
+$xmlDataSahur = simplexml_load_string($sahurListesi);
 $kahvalti = ["Pazartesi" => ["Çay-süt", "Sade Poğaça", "Patates Kızartması-Sosis", "Beyaz Peynir", "Siyah Zeytin", "Tereyağ", "Reçel", "Fındık Ezmesi", "Domates-Biber"], "Salı" => ["Çay", "Patatesli Kol Böreği", "Haşlanmış Yumurta", "Poşet Beyaz Peynir", "Yeşil Zeytin", "Tereyağ", "Bal", "Domates-Salatalık"], "Çarşamba" => ["Çay-süt", "Kek", "Menemen*Patatesli Yumurta", "Üçgen Peynir", "Siyah Zeytin", "Tereyağ", "Reçel", "Domates-Salatalık"], "Perşembe" => ["Çay-meyvesuyu", "Peynirli Tepsi Böreği", "Haşlanmış Yumurta", "Kaşar Peyniri", "Yeşil Zeytin", "Tereyağ", "Bal", "Domates-Biber"], "Cuma" => ["Çay", "Simit", "Beyaz Peynir", "Üçgen Peynir", "Siyah Zeytin", "Tereyağ", "Reçel", "Fındık Ezmesi", "Domates-Biber"], "Cumartesi" => ["Çay-süt", "Gözleme", "Haşlanmış Yumurta", "Beyaz Peynir", "Siyah Zeytin", "Tereyağ", "Bal", "Domates-Salatalık"], "Pazar" => ["Çay-süt", "Kaşarlı-sucuklu Tost", "Menemen", "Poşet Beyaz Peynir", "Yeşil Zeytin", "Tereyağ", "Reçel", "Fındık Ezmesi", "Domates-Biber"]];
 $kumanya = ["Pazartesi" => ["Kaşar Peynirli Sandviç", "Ayran", "Mevsim Meyvesi"], "Salı" => ["Konserve Barbunya Pilaki*Fasulye Pilaki", "Meyve Suyu", "Mevsim Meyvesi", "Rol Ekmek (2 adet)"], "Çarşamba" => ["Beyaz Peynirli Sandviç", "Ayran", "Mevsim Meyvesi"], "Perşembe" => ["Konserve Ton Balığı*Barbunya Pilaki", "Meyve Suyu", "Mevsim Meyvesi", "Rol Ekmek (2 adet)"], "Cuma" => ["Kaşar Peynirli Sandviç", "Ayran", "Mevsim Meyvesi"], "Cumartesi" => [""], "Pazar" => [""]];
 
-foreach($xmlData->children() as $gun)
+foreach($xmlDataYemek->children() as $gun)
 {
     if (new DateTime(substr($gun->tarih, 0, 10)) >= $bugun)
     {
@@ -92,7 +95,7 @@ foreach($xmlData->children() as $gun)
             echo '<br />';
         }
 
-?>
+    ?>
     <h4>Ana Yemek</h4>
     <?php
         foreach($gun->yemekler->yemek as $yemek)
@@ -103,8 +106,8 @@ foreach($xmlData->children() as $gun)
 
         echo "<br />";
         echo "<b>" . $gun->kalori . " Kalori</b>";
-?>
-            <h4>Kumanya</h4>
+    ?>
+    <h4>Kumanya</h4>
     <?php
         $gunAdi = explode(" ", $gun->tarih) [1];
         foreach($kumanya[$gunAdi] as $yemek)
@@ -121,7 +124,22 @@ foreach($xmlData->children() as $gun)
             echo '<br />';
         }
 
-?>
+    ?>
+    <?php 
+    $gunler = array(1=>"Pazartesi",2=>"Salı",3=>"Çarşamba",4=>"Perşembe",5=>"Cuma",6=>"Cumartesi",8=>"Pazar");
+    $gun = $gunler[$bugun -> format("w")];
+    $sahur = $xmlDataSahur->xpath('//gunler/gun/tarih[.="'.$bugun->format("d.m.Y").' '.$gun.'"]/parent::*');
+    if ($sahur) {
+    ?>
+    <h4>Sahur</h4>
+    <?php
+            foreach($sahur[0]->yemekler->yemek as $yemek){
+                echo $yemek;
+                echo '<br />';
+
+            }
+        }
+    ?>
 </div>    
 </div>
 </div>

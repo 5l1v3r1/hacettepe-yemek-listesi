@@ -1,0 +1,351 @@
+<gunler>
+   <gun>
+      <tarih>27.05.2017 Cumartesi</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Mercimek Çorba</yemek>
+         <yemek>Tereyağ - Bal</yemek>
+         <yemek>Üçgen Peynir - Siyah Zeytin</yemek>
+         <yemek>Haşlanmış Yumurta</yemek>
+         <yemek>Domates-Salatalık</yemek>
+         <yemek>Ekmek - Sade Poğaça-Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>28.05.2017 Pazar</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Domates Çorbası</yemek>
+         <yemek>Poş.beyaz peynir - Yeşil zeytin</yemek>
+         <yemek>Tereyağ-reçel-fındık ezmesi</yemek>
+         <yemek>Domates-Salatalık-Biber</yemek>
+         <yemek>Patatesli Yumurta</yemek>
+         <yemek>Ekmek -Simit- Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>29.05.2017 Pazartesi</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Tarhana Çorbası</yemek>
+         <yemek>Beyaz peynir-siyah zeytin</yemek>
+         <yemek>Haşlanmış Yumurta -Fındık Ezmesi</yemek>
+         <yemek>Kayısı Hoşafı</yemek>
+         <yemek>Domates - Salatalık- Biber</yemek>
+         <yemek>Ekmek - Pey. Milföy Bör-Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>30.05.2017 Salı</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Şehriye Çorbası</yemek>
+         <yemek>Poşet beyaz p.-yeşil Zeytin</yemek>
+         <yemek>Haşlanmış yumurta -Tereyağ-bal</yemek>
+         <yemek>Domates-Salatalık</yemek>
+         <yemek>Üzüm Hoşafı</yemek>
+         <yemek>Ekmek -Pat. Kol börek-Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>31.05.2017 Çarşamba</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Ezogelin Çorbası</yemek>
+         <yemek>Beyaz peynir-siyah zeytin</yemek>
+         <yemek>Tereyağ-reçel</yemek>
+         <yemek>Domates-Salatalık</yemek>
+         <yemek>Patatesli yumurta</yemek>
+         <yemek>Ekmek - Kek - Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>01.06.2017 Perşembe</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Domates Çorbası</yemek>
+         <yemek>Kaşar peyniri-yeşil zeytin</yemek>
+         <yemek>Tereyağ - Bal</yemek>
+         <yemek>Domates-Salatalık- Biber</yemek>
+         <yemek>Haşlanmış yumurta</yemek>
+         <yemek>Ekmek-Pey. tepsi böreği-Pide</yemek>
+         <yemek>Vişne Kompostosu</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>02.06.2017 Cuma</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Mercimek çorba</yemek>
+         <yemek>Üçgen peynir-yeşil zeytin</yemek>
+         <yemek>Tereyağ -Reçel</yemek>
+         <yemek>Domates-Salatalık</yemek>
+         <yemek>Peynirli yumurta</yemek>
+         <yemek>Ekmek-simit-Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>03.06.2017 Cumartesi</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Tarhana Çorbası</yemek>
+         <yemek>Beyaz Peynir- Siyah Zeytin</yemek>
+         <yemek>Tereyağ - Bal</yemek>
+         <yemek>Haşlanmış Yumurta</yemek>
+         <yemek>Domates-Salatalık</yemek>
+         <yemek>Ekmek - Sade Poğaça-Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>04.06.2017 Pazar</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Köylü Çorbası</yemek>
+         <yemek>Poşet beyaz peynir - Yeşil zeytin</yemek>
+         <yemek>Fındık ezmesi</yemek>
+         <yemek>Domates-Salatalık-Biber</yemek>
+         <yemek>Menemen</yemek>
+         <yemek>Ekmek-Kek -Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>05.06.2017 Pazartesi</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Domates Çorbası</yemek>
+         <yemek>Beyaz peynir-siyah zeytin</yemek>
+         <yemek>Tereyağ - reçel</yemek>
+         <yemek>Domates - Salatalık- Biber</yemek>
+         <yemek>Haşlanmış Yumurta</yemek>
+         <yemek>Ekmek - Sade poğaça-Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>06.06.2017 Salı</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Yayla Çorbası</yemek>
+         <yemek>Poşet beyaz p.-yeşil Zeytin</yemek>
+         <yemek>Tereyağ-bal</yemek>
+         <yemek>Domates-Salatalık</yemek>
+         <yemek>Haşlanmış yumurta</yemek>
+         <yemek>Ekmek -Pat. Kol börek-Pide</yemek>
+         <yemek>Vişne Kompostosu</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>07.06.2017 Çarşamba</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Mercimek Çorbası</yemek>
+         <yemek>Beyaz peynir-siyah zeytin</yemek>
+         <yemek>Tereyağ -reçel</yemek>
+         <yemek>Domates-Salatalık</yemek>
+         <yemek>Peynirli Yumurta</yemek>
+         <yemek>Ekmek -Simit-Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>08.06.2017 Perşembe</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Ezogelin çorbası</yemek>
+         <yemek>Kaşar peyniri-yeşil zeytin</yemek>
+         <yemek>Tereyağ - Bal</yemek>
+         <yemek>Domates-Salatalık- Biber</yemek>
+         <yemek>Haşlanmış yumurta</yemek>
+         <yemek>Ekmek-Pey. tepsi böreği-Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>09.06.2017 Cuma</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Tarhana Çorbası</yemek>
+         <yemek>Üçgen peynir-yeşil zeytin</yemek>
+         <yemek>Fındık ezmesi</yemek>
+         <yemek>Domates-Salatalık</yemek>
+         <yemek>Patatesli yumurta</yemek>
+         <yemek>Ekmek-Simit-Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>10.06.2017 Cumartesi</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Bulgur Çorbası</yemek>
+         <yemek>Poşet Beyaz Peynir - Siyah Zeytin</yemek>
+         <yemek>Tereyağ - Bal</yemek>
+         <yemek>Haşlanmış Yumurta</yemek>
+         <yemek>Domates-Salatalık</yemek>
+         <yemek>Ekmek - Sade Poğaça-Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>11.06.2017 Pazar</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Hanımağa Çorbası</yemek>
+         <yemek>Üçgen peynir - Yeşil zeytin</yemek>
+         <yemek>Tereyağ-reçel</yemek>
+         <yemek>Domates-Salatalık-Biber</yemek>
+         <yemek>Menemen</yemek>
+         <yemek>Ekmek-Kek -Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>12.06.2017 Pazartesi</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Tarhana Çorbası</yemek>
+         <yemek>Beyaz peynir-siyah zeytin</yemek>
+         <yemek>Fındık ezmesi - Haşlanmış yumurta</yemek>
+         <yemek>Domates - Salatalık- Biber</yemek>
+         <yemek>Vişne Kompostosu</yemek>
+         <yemek>Ekmek - Ay Böreği-Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>13.06.2017 Salı</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Domates Çorbası</yemek>
+         <yemek>Poşet beyaz p.-yeşil Zeytin</yemek>
+         <yemek>Tereyağ-bal -Haşlanmış Yumurta</yemek>
+         <yemek>Domates-Salatalık</yemek>
+         <yemek>Üzüm Hoşafı</yemek>
+         <yemek>Ekmek - Pey. milföy böreği-Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>14.06.2017 Çarşamba</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Ezogelin Çorbası</yemek>
+         <yemek>Beyaz peynir-siyah zeytin</yemek>
+         <yemek>Tereyağ-reçel</yemek>
+         <yemek>Domates-Salatalık</yemek>
+         <yemek>Patatesli yumurta</yemek>
+         <yemek>Ekmek -Kek-Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>15.06.2017 Perşembe</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Hanımağa Çorbası</yemek>
+         <yemek>Kaşar peyniri-yeşil zeytin</yemek>
+         <yemek>Tereyağ - Bal</yemek>
+         <yemek>Domates-Salatalık- Biber</yemek>
+         <yemek>Haşlanmış yumurta</yemek>
+         <yemek>Ekmek-Pey. tepsi böreği-Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>16.06.2017 Cuma</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Şehriye Çorbası</yemek>
+         <yemek>Üçgen peynir-yeşil zeytin</yemek>
+         <yemek>Fındık ezmesi</yemek>
+         <yemek>Domates-Salatalık</yemek>
+         <yemek>Patatesli yumurta</yemek>
+         <yemek>Ekmek-simit-Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>17.06.2017 Cumartesi</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Köylü Çorbası</yemek>
+         <yemek>Kaşar Peyniri -Siyah Zeyin</yemek>
+         <yemek>Tereyağ - Bal</yemek>
+         <yemek>Haşlanmış Yumurta</yemek>
+         <yemek>Domates-Salatalık</yemek>
+         <yemek>Ekmek - Sade Poğaça-Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>18.06.2017 Pazar</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Tarhana Çorbası</yemek>
+         <yemek>Poşet beyaz peynir - Yeşil zeytin</yemek>
+         <yemek>Tereyağ-reçel-fındık ezmesi</yemek>
+         <yemek>Domates-Salatalık-Biber</yemek>
+         <yemek>Ekmek-Pey. Milföy Böreği-Pide</yemek>
+         <yemek>Kayısı Hoşafı</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>19.06.2017 Pazartesi</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Domates Çorbası</yemek>
+         <yemek>Beyaz peynir-siyah zeytin</yemek>
+         <yemek>Haşlanmış yumurta - Fındık Ezmesi</yemek>
+         <yemek>Vişne Kompostosu</yemek>
+         <yemek>Domates - Salatalık- Biber</yemek>
+         <yemek>Ekmek - Ay Böreği-Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>20.06.2017 Salı</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Bulgur Çorbası</yemek>
+         <yemek>Poşet beyaz p.-yeşil Zeytin</yemek>
+         <yemek>Tereyağ-bal</yemek>
+         <yemek>Domates-Salatalık</yemek>
+         <yemek>Haşlanmış yumurta</yemek>
+         <yemek>Ekmek -Pat. Kol börek-Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>21.06.2017 Çarşamba</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Mercimek Çorbası</yemek>
+         <yemek>Beyaz peynir-siyah zeytin</yemek>
+         <yemek>Tereyağ-reçel</yemek>
+         <yemek>Domates-Salatalık</yemek>
+         <yemek>Patatesli yumurta</yemek>
+         <yemek>Ekmek -pey. milföy börek-Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>22.06.2017 Perşembe</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Şehriye Çorbası</yemek>
+         <yemek>Kaşar peyniri-yeşil zeytin</yemek>
+         <yemek>Haşlanmış yumurta -Tereyağ - Bal</yemek>
+         <yemek>Domates-Salatalık- Biber</yemek>
+         <yemek>Vişne Kompostosu</yemek>
+         <yemek>Ekmek-Puf börek-Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>23.06.2017 Cuma</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>Hanımağa Çorbası</yemek>
+         <yemek>Üçgen peynir-yeşil zeytin</yemek>
+         <yemek>Tereyağ -Reçel-fındık ezmesi</yemek>
+         <yemek>Domates-Salatalık</yemek>
+         <yemek>Menemen</yemek>
+         <yemek>Ekmek-simit-Pide</yemek>
+      </yemekler>
+   </gun>
+   <gun>
+      <tarih>24.06.2017 Cumartesi</tarih>
+      <yemekler>
+         <yemek>Çay</yemek>
+         <yemek>EzogelinÇorbası</yemek>
+         <yemek>Tereyağ - Bal</yemek>
+         <yemek>Haşlanmış Yumurta --SiyahZeytin</yemek>
+         <yemek>Domates-Salatalık</yemek>
+         <yemek>Ekmek - Sade Poğaça-Pide</yemek>
+      </yemekler>
+   </gun>	
+</gunler>
