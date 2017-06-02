@@ -66,6 +66,7 @@
 <div class="row" id="container">
 
 <?php
+date_default_timezone_set('Europe/Istanbul');
 $bugun = new DateTime(date("d.m.Y"));
 $apiURL = 'http://www.sksdb.hacettepe.edu.tr/YemekListesi.xml';
 $sahurDosya = "sahur.".$bugun->format('Y').".xml";
